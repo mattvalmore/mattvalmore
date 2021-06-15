@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @mattvalmore
-- 👀 I’m interested in MONEY
-- 🌱 I’m currently learning how to be useful
-- 💞️ I’m looking to collaborate on zero idea yet
+hi friends
 
 <!---
 mattvalmore/mattvalmore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
